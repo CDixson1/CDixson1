@@ -1,6 +1,7 @@
 - :wave: Hi, I’m @CDixson1, Chris. 
 
-- :business_suit_levitating: I’m a Programmer and Web Developer, contractor with FedGeek in support of NOAA Fisheries, Northeast Fisheries Science Center, Data and Information Systems Branch,  U.S. Department of Commerce. 
+- :business_suit_levitating: Programmer/Web Developer, Contractor/Affiliate with TechGlobal, Inc., in support of NOAA Fisheries Office of Fishery Monitoring and Research Division  | U.S. Department of Commerce
+
 - 📫 christopher.dixson@noaa.gov
 
 <!---
